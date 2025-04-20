@@ -2,7 +2,7 @@
 
 [![Lint](https://github.com/dcjulian29/ansible-role-mailbox/actions/workflows/lint.yml/badge.svg)](https://github.com/dcjulian29/ansible-role-mailbox/actions/workflows/lint.yml) [![GitHub Issues](https://img.shields.io/github/issues-raw/dcjulian29/ansible-role-mailbox.svg)](https://github.com/dcjulian29/ansible-role-mailbox/issues)
 
-This an Ansible role to to install and configure a secure mailbox server based on postfix and dovcot
+An Ansible role to to install and configure a secure mailbox server based on postfix and dovcot or a smarthost MTA
 
 ## Requirements
 
